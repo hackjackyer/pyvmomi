@@ -29,6 +29,8 @@ posted to `pypi <https://pypi.python.org/pypi/pyvmomi/>`_
 * To install the version in `github <https://github.com/vmware/pyvmomi>`_ use 
   ``python setup.py develop`` for development install or 
   ``python setup.py install``. 
+* 用mac信息来查询vm信息。
+  ``python Query_vm_with_mac.py``
 
 Testing
 =======
