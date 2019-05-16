@@ -1,4 +1,5 @@
 #!/usr/bin/env python 
+# 【转载】原文链接http://virtual.51cto.com/art/201710/554169.htm
 import atexit 
 
 from pyVim import connect 
